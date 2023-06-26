@@ -1,0 +1,56 @@
+1. se estiver em casa
+2. ir até a cozinha 
+3. abrir o armario
+4. conferir se tem miojo 
+5. se sim
+6. se não, ir até o mercado
+7. escolher sabor                                                                                    
+8. pegar miojo                  
+9. procurar panela
+10.pegar panela                                                                                                        INICIO
+11. ir até a torneira
+12. girar a torneira para direita
+13. encher a panela de agua
+14.levar a panela até fogão
+15. acender o fogão 
+16. girar o acendedor, para aceder o fogo.
+17. colocar a panela no fogo.
+18. deixar a panela, com o fogo com agua até a agua ferver.
+19. qundo a agua começar a ferver.
+20. pegar o miojo                                                                                                   MEIO
+21. abrir miojo, pegar o macarrão estentantanio 
+22. colocar o mijo na agua.
+23. eperar o miojo cozinhar de 3 a 5 minutos 
+24. desligar o fogo.
+25. pegar a panela.
+27. ir ate a pia da cozinha, e tirar o exesso de aguá da panela.
+28. voltar com a panela para o fogão.
+29. adicionar um sache de tempero do miojo.
+30. pegar um garfo, e misturar bem o miojo.
+31. e miojo ficou pronto.                                                                                         FIM
+
+
+
+
+
+
+
+
+
+
+Objetos de Entrada:
+miojo.
+aguá.
+sache de tempero.
+
+OBJETOS AUXILIARES:
+Panela.
+Fogão
+Garfo.
+Cozinheiro.
+
+OBEJETO DE SAÍDA:
+Miojo cozido.
+
+
+
